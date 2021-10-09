@@ -11,7 +11,7 @@
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="JK BOT" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="JK BOT" src="https://img.shields.io/badge/JK BOT-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/JK BOT"><img title="Author" src="https://img.shields.io/badge/Author-JK BOT/JK BOT?color=blue&style=for-the-badge&logo=whatsapp"></a>
